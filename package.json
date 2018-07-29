@@ -1,0 +1,8 @@
+{
+  "name": "learn.js",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KaiWedekind/learn.js.git",
+  "author": "Kai Wedekind <wedekind.kai@googlemail.com> (https://www.kaiwedekind.com/)",
+  "license": "MIT"
+}
